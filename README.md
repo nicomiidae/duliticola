@@ -1,2 +1,2 @@
-# dulitocola
+# duliticola
 RSS reader
