@@ -1,0 +1,23 @@
+{
+  "name": "duliticola",
+  "version": "0.1.0",
+  "description": "RSS reader",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicomiidae/duliticola.git"
+  },
+  "author": "nicomiidae",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicomiidae/duliticola/issues"
+  },
+  "homepage": "https://github.com/nicomiidae/duliticola#readme",
+  "devDependencies": {
+    "electron": "^9.2.0"
+  }
+}
